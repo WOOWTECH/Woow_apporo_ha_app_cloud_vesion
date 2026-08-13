@@ -174,7 +174,7 @@ private fun ServerUrlTextField(
         },
         placeholder = {
             Text(
-                text = "https://<ipaddress>",
+                text = stringResource(commonR.string.input_url_hint),
                 style = HATextStyle.UserInput,
                 color = LocalHAColorScheme.current.colorOnNeutralNormal,
             )

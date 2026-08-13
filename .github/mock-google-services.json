@@ -62,7 +62,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:000000000000:android:00089e48c924b319",
         "android_client_info": {
-          "package_name": "com.apporo.home"
+          "package_name": "com.apporo.homecloud"
         }
       },
       "api_key": [
@@ -75,7 +75,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:000000000000:android:00176b5ba35ea07b",
         "android_client_info": {
-          "package_name": "com.apporo.home.debug"
+          "package_name": "com.apporo.homecloud.debug"
         }
       },
       "api_key": [
@@ -88,7 +88,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:000000000000:android:00001b0eaadae2c3",
         "android_client_info": {
-          "package_name": "com.apporo.home.minimal"
+          "package_name": "com.apporo.homecloud.minimal"
         }
       },
       "api_key": [
@@ -101,7 +101,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:000000000000:android:001d2fc5461a3d2a",
         "android_client_info": {
-          "package_name": "com.apporo.home.minimal.debug"
+          "package_name": "com.apporo.homecloud.minimal.debug"
         }
       },
       "api_key": [
